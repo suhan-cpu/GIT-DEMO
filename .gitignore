@@ -1,0 +1,24 @@
+# 依赖包
+node_modules/
+vendor/
+
+# 构建产物
+dist/
+build/
+*.exe
+
+# 日志
+*.log
+npm-debug.log*
+
+# 环境变量
+.env
+.env.local
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
